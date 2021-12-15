@@ -1,0 +1,85 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    width: 50px;
+    height: 55px;
+    margin: 5px 10px;
+}
+h1{
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.big-cont{
+   background-color:rgb(240, 234, 212); 
+   max-width:650px;
+   margin: auto;
+}
+.container{
+    /* background-color:rgb(240, 234, 212); */
+   /* max-width:650px;
+    margin: auto; */
+    /* display:flex;
+    flex-direction: column; */
+    height: 68vh;
+    overflow-y: auto;
+    margin-bottom: 15px;
+    padding: 30px;
+}
+.message{
+    width: 30%;
+    margin: 10px 10px;
+    padding: 7px 5px;
+    border-radius: 5px;
+}
+
+.left{
+    float: left;
+    clear: both;
+    background-color: whitesmoke;
+}
+
+.right{
+    float: right;
+    clear: both;
+    background-color: rgb(193, 235, 130);
+}
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#type-massage{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+    border:2px solid black;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 2px;
+}
+
+.center{
+    /* text-align: center; */
+    display: block;
+    margin: 10px auto ;
+    background-color: rgb(217, 245, 245);
+    /* padding: 4px 10px; */
+    clear: both;
+}
