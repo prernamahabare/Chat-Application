@@ -67,8 +67,4 @@ Chat Application works on the Socket.io library that allows real-time, event-bas
 
 Regards to <a href="https://socket.io/docs/v4/" target="blank">Socket.io</a> documentation and Youtube videos for guidance.
 
-Contact me: [patelyashodhar012@gmail.com](mailto:patelyashodhar012@gmail.com)
-
-🌎 Website: [https://yashodharpatel.herokuapp.com](https://yashodharpatel.herokuapp.com/)
-
 <h2>Contributions are always Welcome :)</h2>
